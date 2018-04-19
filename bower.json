@@ -22,7 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular-schema-form": "1.0.0-alpha.5"
   },
   "devDependencies": {
     "angular-ui-ace": "bower",
